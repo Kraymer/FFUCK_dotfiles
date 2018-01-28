@@ -1,4 +1,4 @@
-**OS X specific setup**
+**macOS specific setup**
  
     ├── .config
     │   └── .gitconfig.sec                I use same git credentials on my macs 
@@ -8,10 +8,10 @@
     │   └── mac-vars.zshenv               Env variables definitions
 
     
-This package installs configuration files, aliases, functions, etc. for an OS X environment.
+This package installs configuration files, aliases, functions, etc. for a macOS environment.
 Use subpackages for configuration specific to a mac instance.
 
 ### Subpackages
 
-- [@macbook](https://github.com/Kraymer/F-dotfiles/tree/master/%40mac/%40macbook)
-- [@macmini](https://github.com/Kraymer/F-dotfiles/tree/master/%40mac/%40macmini)
+- [@macbook](@macbook)
+- [@macmini](@macmini)
